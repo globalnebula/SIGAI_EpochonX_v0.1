@@ -25,6 +25,13 @@ A comprehensive learning progress tracking system built with LLaMa 3.1, Streamli
 - **Backend**: LLaMa 3.1 
 - **Frontend**: Streamlit
 
+## How to use
+
+- Enter the field of interest.
+- Enter your name and take the placement test.
+- While submitting the answer, you will have to hit submit *twice*.
+- Enter a member who took the test to view their performance (This is for the Club leads).
+
 ## 📋 Prerequisites
 
 ```bash
@@ -73,12 +80,7 @@ streamlit run app.py
    - Dynamic question generation based on current progress
    - Difficulty adjustment based on previous performance
 
-2. **Performance Analysis**
-   - Comparison with previous week's results
-   - Progress visualization
-   - Skill improvement tracking
-
-3. **Feedback Generation**
+2. **Feedback Generation**
    - Personalized improvement recommendations
    - Focus area identification
    - Resource suggestions
