@@ -20,17 +20,10 @@ A comprehensive learning progress tracking system built with LLaMa 3.1, Streamli
 - Comparative analysis with previous performance
 - Skill gap identification and improvement recommendations
 
-### 4. Data Management
-- Secure storage of user progress and assessment data
-- Historical performance tracking
-- Analytics for learning pattern identification
-
 ## 🛠 Tech Stack
 
-- **Backend**: LLaMa 3.1 API
+- **Backend**: LLaMa 3.1 
 - **Frontend**: Streamlit
-- **Database**: [Your Database Choice]
-- **Additional Libraries**: [List Key Libraries]
 
 ## 📋 Prerequisites
 
