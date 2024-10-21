@@ -66,12 +66,6 @@ streamlit run app.py
 
 2. Access the application at `http://localhost:8501`
 
-3. Follow the setup wizard to:
-   - Create your learning profile
-   - Take the placement test
-   - Get your personalized roadmap
-
-
 
 ## 🔄 Weekly Evaluation Process
 
