@@ -89,6 +89,6 @@ streamlit run app.py
 - Advyth Vaman Akalankam
 - Sri Lakshmi Snigdha
 
-## 📮 Contact
+## 📮 Demo Link
 
-- Project Link: https://github.com/globalnebula/SIGAI_EpochonX_v0.1.git
+- Project Link: [Click here to go to the Demo link](https://acm-perf-tracker.streamlit.app/)
