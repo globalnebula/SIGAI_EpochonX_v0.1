@@ -28,9 +28,6 @@ A comprehensive learning progress tracking system built with LLaMa 3.1, Streamli
 ## 📋 Prerequisites
 
 ```bash
-# Required Python version
-Python 3.8+
-
 # Key dependencies
 streamlit
 groq
